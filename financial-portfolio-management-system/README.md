@@ -1,5 +1,15 @@
 # FinancialPortfolioManagementSystem
 
+DESCRIPTION : Application for managing financial portfolios, allowing users to track
+their investments, view performance reports, and make informed decisions.
+
+TECHNOLOGIES USED
+
+Angular 19.2.13
+Material
+ng2-chart, Chart JS
+This folder won't have node_modules.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
 
 ## Development server
